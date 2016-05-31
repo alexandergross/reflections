@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It helped me finding the bug because of the plus and minus symbols. 
+So you can see pretty quickly what changed between the files.
+And so you don't have to look at the whole code.
+It saves a lot of time by doing it that way.
+
+How could having easy access to the entire history of a file make you a more efficent programmer in the long term?
+I think that it is more efficent because you don't have to save the file everytime something important changes with an other name.
+Also you don't have to think about it and always can compare to the previous code you wrote.
+So when you make a mistake in the code you can easily check an older version where everything was still running.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+I think one con is that you maybe forget to make a commit. Or you make so much commits that it is not youseful anymore.
+When you forget it and something isnt't running in the code than you have to find it manually and this is a waste of time.
+The pro on the other hand are that you have the full control over it. You can choose when to make it. 
+So it can make a lot more sense for yourself and you find it easier to find a false code or something like that.
+And you also can explain it in the commit why you made one. So somewhere other also knows why you did this and where he has to look at.
+
+Why do you think some version control systems, like Git, allow savong multiple files in one commit, while others, like Google Docs, treat each file seperately?
+Because between coding files and normal text documents, there is a big differenze. 
+Files with code are often linked together with classes or like in html and css files just get together and the one file reflects on the other file. So it makes sense, that they get saved together.
+
+How can you use the commands git log and git diff to view the history of files?
+With git log you can see the hole history of commits that were made. So you can see all the commits and messages of the different commits. 
+With git diff you can compare two logs or commits with each other.
+
+How might using version control make you more confident to make chenges that could break something?
+When you have version control you can always go back to an other commit if you really broke something. So this is not really bad when you make a mistake in the code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use it for Front End Web Developement.
