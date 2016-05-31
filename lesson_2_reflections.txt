@@ -1,3 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 When you initialize a new reporitory git creates a new folder in which it saves all the changes of the files.
 So you need to do this because git won't work without this.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area has a few differences with the repository. 
+You can decide which files you want to have in it. You don't have to do all files into it. So it belongs just to yourself.
+And every file you take in it gets bundled for the commits you make so it is pretty clever. 
+The repository on the other hand as all files of your project in it. It is more or less not your decision which files you want to have in it. 
+I think the big value it offers comes because you can decide which files belong to it and so on which files are bundled in your commit.
