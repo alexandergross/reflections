@@ -19,3 +19,7 @@ This makes everything cleaner and my site is better organized.
 
 How do the diagrams help you visualize the branch structure?
 With a diagramm you can see easily which commit belongs to which branch and if there is something that is not reachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that these are combined into one branch. The code of both gets combined. 
+In the diagramm it gets represented that way because the master now has the commits from both branches. The ones from the master itself and the ones from the coins branch
