@@ -23,3 +23,7 @@ With a diagramm you can see easily which commit belongs to which branch and if t
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is that these are combined into one branch. The code of both gets combined. 
 In the diagramm it gets represented that way because the master now has the commits from both branches. The ones from the master itself and the ones from the coins branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros of the automatic merging are, that it is really fast and so it saves you a lot of time.
+When you merge it manually it takes you a lot of time you could spend working on it.
