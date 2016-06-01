@@ -8,3 +8,6 @@ You can decide which files you want to have in it. You don't have to do all file
 And every file you take in it gets bundled for the commits you make so it is pretty clever. 
 The repository on the other hand as all files of your project in it. It is more or less not your decision which files you want to have in it. 
 I think the big value it offers comes because you can decide which files belong to it and so on which files are bundled in your commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+To make sure, that you have one commit per logical change, you can add the files you edited to the staging area and just commit these files.
