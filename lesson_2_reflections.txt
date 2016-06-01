@@ -11,3 +11,8 @@ I think the big value it offers comes because you can decide which files belong 
 
 How can you use the staging area to make sure you have one commit per logical change?
 To make sure, that you have one commit per logical change, you can add the files you edited to the staging area and just commit these files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+It helps when i want to add a feature to a website and don't know if it works properly.
+So i can just make a new branch and ad those feature to that branch. The master stays at it is so i don't have to worry that something gets destroyed. 
+This makes everything cleaner and my site is better organized.
