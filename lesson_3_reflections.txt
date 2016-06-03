@@ -8,3 +8,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Forks are only on git. They are clones but just for git. You can also see how many forks someone has. And you can see who has set a fork on your repository.
 Clones are just copies of a repository which are mady local from one computer to an other. So there is nothing in the cloud like on git. 
 Branches are only in the repository. You can have different branches in it with different versions of the code.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The real benefit is that you can work offline when you have the last known copy. 
+I don't see any other benefit of this practice.
