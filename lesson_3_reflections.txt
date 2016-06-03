@@ -12,3 +12,9 @@ Branches are only in the repository. You can have different branches in it with 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The real benefit is that you can work offline when you have the last known copy. 
 I don't see any other benefit of this practice.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Withoud github i would do it by talking to the ones i am working with. i would let them know by mail or by a messenger when i want to merge something or when a change happened. But it would be a lot more difficult because everyone is running the stuff just local. 
+But with github they can see when i make a change and they even get notified automatically when i want to merge something.
+They can then look directly on the new code i made and see if something is wrong. 
+So github makes it realy a lot easier to work together.
