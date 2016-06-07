@@ -18,3 +18,7 @@ Withoud github i would do it by talking to the ones i am working with. i would l
 But with github they can see when i make a change and they even get notified automatically when i want to merge something.
 They can then look directly on the new code i made and see if something is wrong. 
 So github makes it realy a lot easier to work together.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would do that when i am working on a new festure of something. A bigger change that i don't know if it is working. 
+Or maybe also when i need something completely seperated from the master no matter why. For example a complete new version of the same game. It is the same but a bit different. Maybe a bit harder or seomething else.
